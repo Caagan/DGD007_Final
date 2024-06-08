@@ -88,7 +88,7 @@
                 "m_Node": {
                     "m_Id": "653ca40f33bc4e01a6ec0a0445005080"
                 },
-                "m_SlotId": 1
+                "m_SlotId": 0
             }
         },
         {
@@ -102,7 +102,7 @@
                 "m_Node": {
                     "m_Id": "653ca40f33bc4e01a6ec0a0445005080"
                 },
-                "m_SlotId": 0
+                "m_SlotId": 1
             }
         },
         {
@@ -181,8 +181,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": 55.333309173583987,
+            "y": 372.6667175292969
         },
         "m_Blocks": [
             {
@@ -256,10 +256,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -498.0,
-            "y": 209.99998474121095,
-            "width": 133.00003051757813,
-            "height": 34.00001525878906
+            "x": -643.3333129882813,
+            "y": -43.33333969116211,
+            "width": 134.66671752929688,
+            "height": 35.999996185302737
         }
     },
     "m_Slots": [
@@ -285,7 +285,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "0d4ba8dd9a724e108d3c975db2a34bd0",
     "m_Id": 0,
-    "m_DisplayName": "Albedo",
+    "m_DisplayName": "Human_Texture",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -444,10 +444,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -585.0000610351563,
-            "y": -42.000003814697269,
-            "width": 183.00003051757813,
-            "height": 251.0
+            "x": -1009.3333129882813,
+            "y": 20.000015258789064,
+            "width": 184.666748046875,
+            "height": 254.6667022705078
         }
     },
     "m_Slots": [
@@ -602,10 +602,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -327.0000305175781,
-            "y": 87.00000762939453,
-            "width": 130.0000457763672,
-            "height": 118.00000762939453
+            "x": -492.6666259765625,
+            "y": 113.33332824707031,
+            "width": 131.33334350585938,
+            "height": 120.0
         }
     },
     "m_Slots": [
@@ -839,10 +839,10 @@
     "m_Guid": {
         "m_GuidSerialized": "e8b6ebc1-8a92-4472-afd0-94903d8bf559"
     },
-    "m_Name": "OpacityOn",
+    "m_Name": "Transparency_Value",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "OpacityOn",
-    "m_DefaultReferenceName": "_OpacityOn",
+    "m_RefNameGeneratedByDisplayName": "Transparency_Value",
+    "m_DefaultReferenceName": "_Transparency_Value",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -913,7 +913,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "8c5bff4a77fd47c0983e029f82260ac8",
     "m_Id": 0,
-    "m_DisplayName": "OpacityOn",
+    "m_DisplayName": "Transparency_Value",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -994,10 +994,10 @@
     "m_Guid": {
         "m_GuidSerialized": "5b7b20c1-f315-4da5-803b-b6eb62dc5a50"
     },
-    "m_Name": "Albedo",
+    "m_Name": "Human_Texture",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Albedo",
-    "m_DefaultReferenceName": "_Albedo",
+    "m_RefNameGeneratedByDisplayName": "Human_Texture",
+    "m_DefaultReferenceName": "_Human_Texture",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1055,10 +1055,10 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "a1584c4bd535493ba3d9810506d1dee2",
-    "m_Title": "Base Color And Texture",
+    "m_Title": "Texture_and_Base Color",
     "m_Position": {
-        "x": 10.0,
-        "y": 10.0
+        "x": -1145.3333740234375,
+        "y": -12.000053405761719
     }
 }
 
@@ -1457,10 +1457,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -816.0000610351563,
-            "y": -33.000003814697269,
-            "width": 121.00006103515625,
-            "height": 33.99999237060547
+            "x": -1082.0,
+            "y": -134.6666717529297,
+            "width": 167.3333740234375,
+            "height": 36.0
         }
     },
     "m_Slots": [
@@ -1493,10 +1493,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -831.0,
-            "y": 34.999977111816409,
-            "width": 144.99993896484376,
-            "height": 129.00003051757813
+            "x": -1300.0,
+            "y": 106.00000762939453,
+            "width": 147.333251953125,
+            "height": 131.99996948242188
         }
     },
     "m_Slots": [
